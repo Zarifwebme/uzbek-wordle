@@ -26,7 +26,7 @@ O'zbekcha Wordle - bu mashhur Wordle o'yinining o'zbek tilidagi versiyasi.
 
 ## Ishlatish
 
-Faylni brauzerda oching yoki lokal serverda ishga tushiring:
+Faylni brauzerda oching yoki lokal serverda ishga tushiring va ko'rsatmaga amal qiling:
 
 ```bash
 python -m http.server
