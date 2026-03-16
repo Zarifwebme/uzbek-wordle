@@ -4,7 +4,7 @@ O'zbekcha Wordle - bu mashhur Wordle o'yinining o'zbek tilidagi versiyasi.
 
 ## Qanday o'ynaydi?
 
-- 🎯 5 harfli o'zbek so'zni toping
+- 🎯 5 harfli o'zbek so'zni toping so'zlar faqat o'zlar listida bo'ladi
 - 🔢 Sizda 6 ta urinish bor
 - 🎨 Harf ranglari:
   - 🟩 **Yashil** - to'g'ri harfni to'g'ri joyda topganid
